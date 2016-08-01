@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/Gnouc/envim.svg?branch=master)](https://travis-ci.org/Gnouc/envim)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Gnouc/envim)](https://goreportcard.com/report/github.com/Gnouc/envim)
+[![GoDoc](https://godoc.org/github.com/Gnouc/envim?status.svg)](https://godoc.org/github.com/Gnouc/envim)
 
 #Why envim?
 
