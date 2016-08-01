@@ -14,7 +14,7 @@ go get -u github.com/Gnouc/envim
 
 #Usage
 
-```
+```go
 package main
 
 import (
