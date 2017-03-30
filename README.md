@@ -1,19 +1,19 @@
-#envim - Go environment variables for human
+# envim - Go environment variables for human
 
 [![Build Status](https://travis-ci.org/Gnouc/envim.svg?branch=master)](https://travis-ci.org/Gnouc/envim)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Gnouc/envim)](https://goreportcard.com/report/github.com/Gnouc/envim)
 [![GoDoc](https://godoc.org/github.com/Gnouc/envim?status.svg)](https://godoc.org/github.com/Gnouc/envim)
 
-#Why envim?
+# Why envim?
 
 Just another (better) way for managing environment variables from Go code, but written for human.
 
-#Installation
+# Installation
 ```sh
 go get -u github.com/Gnouc/envim
 ```
 
-#Usage
+# Usage
 
 ```go
 package main
@@ -73,10 +73,10 @@ map[GOROOT:/home/cuonglm/sources/go GOPATH:/home/cuonglm/go]
 map[foo:foo GOPATH:/home/cuonglm/go GOROOT:/home/cuonglm/sources/go bar:bar]
 ```
 
-#Author
+# Author
 
 Cuong Manh Le <cuong.manhle.vn@gmail.com>
 
-#License
+# License
 
 See [LICENSE](https://github.com/Gnouc/envim/blob/master/LICENSE)
