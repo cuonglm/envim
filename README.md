@@ -1,8 +1,8 @@
 # envim - Go environment variables for human
 
-[![Build Status](https://travis-ci.org/Gnouc/envim.svg?branch=master)](https://travis-ci.org/Gnouc/envim)
-[![Go Report Card](https://goreportcard.com/badge/github.com/Gnouc/envim)](https://goreportcard.com/report/github.com/Gnouc/envim)
-[![GoDoc](https://godoc.org/github.com/Gnouc/envim?status.svg)](https://godoc.org/github.com/Gnouc/envim)
+[![Build Status](https://travis-ci.org/cuonglm/envim.svg?branch=master)](https://travis-ci.org/cuonglm/envim)
+[![Go Report Card](https://goreportcard.com/badge/github.com/cuonglm/envim)](https://goreportcard.com/report/github.com/cuonglm/envim)
+[![GoDoc](https://godoc.org/github.com/cuonglm/envim?status.svg)](https://godoc.org/github.com/cuonglm/envim)
 
 # Why envim?
 
@@ -10,7 +10,7 @@ Just another (better) way for managing environment variables from Go code, but w
 
 # Installation
 ```sh
-go get -u github.com/Gnouc/envim
+go get -u github.com/cuonglm/envim
 ```
 
 # Usage
@@ -21,7 +21,7 @@ package main
 import (
 	"fmt"
 
-	env "github.com/Gnouc/envim"
+	env "github.com/cuonglm/envim"
 )
 
 func main() {
@@ -79,4 +79,4 @@ Cuong Manh Le <cuong.manhle.vn@gmail.com>
 
 # License
 
-See [LICENSE](https://github.com/Gnouc/envim/blob/master/LICENSE)
+See [LICENSE](https://github.com/cuonglm/envim/blob/master/LICENSE)
