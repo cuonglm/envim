@@ -1,6 +1,6 @@
 # envim - Go environment variables for human
 
-![Build status](https://github.com/cuonglm/envim/actions/workflows/ci.yaml/badge.svg?branch=master)
+![Build status](https://github.com/cuonglm/envim/actions/workflows/ci.yml/badge.svg?branch=master)
 [![Go Report Card](https://goreportcard.com/badge/github.com/cuonglm/envim)](https://goreportcard.com/report/github.com/cuonglm/envim)
 [![GoDoc](https://godoc.org/github.com/cuonglm/envim?status.svg)](https://godoc.org/github.com/cuonglm/envim)
 
